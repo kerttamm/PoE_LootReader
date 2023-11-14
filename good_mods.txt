@@ -147,3 +147,36 @@
 1 to Level
 2 to Level
 3 to Level
+Attacks have 30% chance to cause Bleeding
++15% to all Elemental Resistances
++16% to all Elemental Resistances
++17% to all Elemental Resistances
++18% to all Elemental Resistances
++19% to all Elemental Resistances
++20% to all Elemental Resistances
++21% to all Elemental Resistances
++22% to all Elemental Resistances
++23% to all Elemental Resistances
++24% to all Elemental Resistances
++25% to all Elemental Resistances
+90% increased Armour
+91% increased Armour
+92% increased Armour
+93% increased Armour
+94% increased Armour
+95% increased Armour
+96% increased Armour
+97% increased Armour
+98% increased Armour
+99% increased Armour
+100% increased Armour
+101% increased Armour
+102% increased Armour
+103% increased Armour
+104% increased Armour
+105% increased Armour
+106% increased Armour
+107% increased Armour
+108% increased Armour
+109% increased Armour
+110% increased Armour
