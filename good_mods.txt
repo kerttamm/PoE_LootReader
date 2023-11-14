@@ -148,6 +148,7 @@
 2 to Level
 3 to Level
 Attacks have 30% chance to cause Bleeding
+30% chance to Poison on Hit
 +15% to all Elemental Resistances
 +16% to all Elemental Resistances
 +17% to all Elemental Resistances
@@ -180,3 +181,71 @@ Attacks have 30% chance to cause Bleeding
 108% increased Armour
 109% increased Armour
 110% increased Armour
++45 to Dexterity
++46 to Dexterity
++47 to Dexterity
++48 to Dexterity
++49 to Dexterity
++50 to Dexterity
++51 to Dexterity
++52 to Dexterity
++53 to Dexterity
++54 to Dexterity
++55 to Dexterity
++45 to Strength
++46 to Strength
++47 to Strength
++48 to Strength
++49 to Strength
++50 to Strength
++51 to Strength
++52 to Strength
++53 to Strength
++54 to Strength
++55 to Strength
++45 to Intelligence
++46 to Intelligence
++47 to Intelligence
++48 to Intelligence
++49 to Intelligence
++50 to Intelligence
++51 to Intelligence
++52 to Intelligence
++53 to Intelligence
++54 to Intelligence
++55 to Intelligence
+25% increased Attack Speed
+26% increased Attack Speed
+27% increased Attack Speed
+28% increased Attack Speed
+29% increased Attack Speed
+30% increased Attack Speed
+18% increased Life Regeneration rate
+19% increased Life Regeneration rate
+20% increased Life Regeneration rate
+21% increased Life Regeneration rate
+22% increased Life Regeneration rate
+23% increased Life Regeneration rate
+24% increased Life Regeneration rate
+25% increased Life Regeneration rate
++95 to maximum Energy Shield
++96 to maximum Energy Shield
++97 to maximum Energy Shield
++98 to maximum Energy Shield
++99 to maximum Energy Shield
++100 to maximum Energy Shield
++101 to maximum Energy Shield
++102 to maximum Energy Shield
++103 to maximum Energy Shield
++104 to maximum Energy Shield
++105 to maximum Energy Shield
++106 to maximum Energy Shield
++107 to maximum Energy Shield
++108 to maximum Energy Shield
++109 to maximum Energy Shield
++110 to maximum Energy Shield
++111 to maximum Energy Shield
++112 to maximum Energy Shield
++113 to maximum Energy Shield
++114 to maximum Energy Shield
++115 to maximum Energy Shield
