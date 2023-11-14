@@ -144,8 +144,9 @@
 31% increased Rarity of Items found
 32% increased Rarity of Items found
 33% increased Rarity of Items found
-1 to Level
-2 to Level
+1 to Level of all
+2 to Level of all
+2 to Level of Socketed
 3 to Level
 Attacks have 30% chance to cause Bleeding
 30% chance to Poison on Hit
@@ -160,6 +161,9 @@ Attacks have 30% chance to cause Bleeding
 +23% to all Elemental Resistances
 +24% to all Elemental Resistances
 +25% to all Elemental Resistances
++1% to maximum
++2% to maximum
++3% to maximum
 90% increased Armour
 91% increased Armour
 92% increased Armour
@@ -249,3 +253,32 @@ Attacks have 30% chance to cause Bleeding
 +113 to maximum Energy Shield
 +114 to maximum Energy Shield
 +115 to maximum Energy Shield
+10% Chance to Block Spell Damage
+11% Chance to Block Spell Damage
+12% Chance to Block Spell Damage
+13% Chance to Block Spell Damage
+14% Chance to Block Spell Damage
+15% Chance to Block Spell Damage
+16% Chance to Block Spell Damage
+17% Chance to Block Spell Damage
+18% Chance to Block Spell Damage
+19% Chance to Block Spell Damage
+20% Chance to Block Spell Damage
+6% additional Physical Damage Reduction
+7% additional Physical Damage Reduction
+8% additional Physical Damage Reduction
+9% additional Physical Damage Reduction
+10% additional Physical Damage Reduction
+11% additional Physical Damage Reduction
+12% additional Physical Damage Reduction
++10% chance to Suppress Spell Damage
++11% chance to Suppress Spell Damage
++12% chance to Suppress Spell Damage
++13% chance to Suppress Spell Damage
++14% chance to Suppress Spell Damage
++15% chance to Suppress Spell Damage
++16% chance to Suppress Spell Damage
++17% chance to Suppress Spell Damage
++18% chance to Suppress Spell Damage
++19% chance to Suppress Spell Damage
++20% chance to Suppress Spell Damage
