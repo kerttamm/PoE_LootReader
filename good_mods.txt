@@ -264,6 +264,17 @@ Attacks have 30% chance to cause Bleeding
 18% Chance to Block Spell Damage
 19% Chance to Block Spell Damage
 20% Chance to Block Spell Damage
++10% Chance to Block
++11% Chance to Block
++12% Chance to Block
++13% Chance to Block
++14% Chance to Block
++15% Chance to Block
++16% Chance to Block
++17% Chance to Block
++18% Chance to Block
++19% Chance to Block
++20% Chance to Block
 6% additional Physical Damage Reduction
 7% additional Physical Damage Reduction
 8% additional Physical Damage Reduction
