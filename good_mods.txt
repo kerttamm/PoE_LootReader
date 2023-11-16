@@ -293,3 +293,29 @@ Attacks have 30% chance to cause Bleeding
 +18% chance to Suppress Spell Damage
 +19% chance to Suppress Spell Damage
 +20% chance to Suppress Spell Damage
+25% increased Cast Speed
+26% increased Cast Speed
+27% increased Cast Speed
+28% increased Cast Speed
+29% increased Cast Speed
+30% increased Cast Speed
+31% increased Cast Speed
+32% increased Cast Speed
+33% increased Cast Speed
+34% increased Cast Speed
+35% increased Cast Speed
+36% increased Cast Speed
+37% increased Cast Speed
+38% increased Cast Speed
+39% increased Cast Speed
+40% increased Cast Speed
+41% increased Cast Speed
+42% increased Cast Speed
+43% increased Cast Speed
+44% increased Cast Speed
+45% increased Cast Speed
+46% increased Cast Speed
+47% increased Cast Speed
+48% increased Cast Speed
+49% increased Cast Speed
+50% increased Cast Speed
