@@ -319,3 +319,25 @@ Attacks have 30% chance to cause Bleeding
 48% increased Cast Speed
 49% increased Cast Speed
 50% increased Cast Speed
+You take 45% reduced Extra Damage from Critical Strikes
+You take 46% reduced Extra Damage from Critical Strikes
+You take 47% reduced Extra Damage from Critical Strikes
+You take 48% reduced Extra Damage from Critical Strikes
+You take 49% reduced Extra Damage from Critical Strikes
+You take 50% reduced Extra Damage from Critical Strikes
+You take 51% reduced Extra Damage from Critical Strikes
+You take 52% reduced Extra Damage from Critical Strikes
+You take 53% reduced Extra Damage from Critical Strikes
+You take 54% reduced Extra Damage from Critical Strikes
+You take 55% reduced Extra Damage from Critical Strikes
+You take 56% reduced Extra Damage from Critical Strikes
+You take 57% reduced Extra Damage from Critical Strikes
+You take 58% reduced Extra Damage from Critical Strikes
+You take 59% reduced Extra Damage from Critical Strikes
+You take 60% reduced Extra Damage from Critical Strikes
+You take 61% reduced Extra Damage from Critical Strikes
+You take 62% reduced Extra Damage from Critical Strikes
+You take 63% reduced Extra Damage from Critical Strikes
+You take 64% reduced Extra Damage from Critical Strikes
+You take 65% reduced Extra Damage from Critical Strikes
+You take 66% reduced Extra Damage from Critical Strikes
